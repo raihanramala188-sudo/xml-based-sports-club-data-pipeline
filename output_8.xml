@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScheduleExport totalSessions="5" source="SportsClub A25 — Data Pipeline 1">
+  <Session id="S001">
+    <Title>Football Morning Training</Title>
+    <Date>2026-05-01</Date>
+    <TimeRange>
+      <Start>08:00:00</Start>
+      <End>10:00:00</End>
+    </TimeRange>
+    <Coach ref="C001">Jean Moreau</Coach>
+    <Facility ref="F001">Main Football Pitch</Facility>
+    <MaxCapacity>22</MaxCapacity>
+  </Session>
+  <Session id="S002">
+    <Title>Swimming Endurance Session</Title>
+    <Date>2026-05-02</Date>
+    <TimeRange>
+      <Start>07:00:00</Start>
+      <End>09:00:00</End>
+    </TimeRange>
+    <Coach ref="C002">Sophie Lambert</Coach>
+    <Facility ref="F002">Olympic Swimming Pool</Facility>
+    <MaxCapacity>20</MaxCapacity>
+  </Session>
+  <Session id="S003">
+    <Title>Basketball Drills</Title>
+    <Date>2026-05-03</Date>
+    <TimeRange>
+      <Start>10:00:00</Start>
+      <End>12:00:00</End>
+    </TimeRange>
+    <Coach ref="C003">Marc Petit</Coach>
+    <Facility ref="F003">Basketball Court A</Facility>
+    <MaxCapacity>20</MaxCapacity>
+  </Session>
+  <Session id="S004">
+    <Title>Tennis Serve Practice</Title>
+    <Date>2026-05-04</Date>
+    <TimeRange>
+      <Start>14:00:00</Start>
+      <End>16:00:00</End>
+    </TimeRange>
+    <Coach ref="C004">Laura Simon</Coach>
+    <Facility ref="F004">Tennis Court 1</Facility>
+    <MaxCapacity>4</MaxCapacity>
+  </Session>
+  <Session id="S005">
+    <Title>Morning Yoga Flow</Title>
+    <Date>2026-05-05</Date>
+    <TimeRange>
+      <Start>06:30:00</Start>
+      <End>07:30:00</End>
+    </TimeRange>
+    <Coach ref="C005">Pierre Blanc</Coach>
+    <Facility ref="F005">Yoga Studio</Facility>
+    <MaxCapacity>15</MaxCapacity>
+  </Session>
+</ScheduleExport>

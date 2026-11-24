@@ -1,0 +1,60 @@
+{
+  "totalBookings": 5,
+  "bookings": [
+    {
+      "bookingID": "B001",
+      "memberID": "M001",
+      "memberName": "Alice Martin",
+      "facilityID": "F001",
+      "facilityName": "Main Football Pitch",
+      "date": "2026-05-10",
+      "startTime": "09:00:00",
+      "endTime": "11:00:00",
+      "status": "Confirmed"
+    },
+    {
+      "bookingID": "B002",
+      "memberID": "M002",
+      "memberName": "Bruno Dupont",
+      "facilityID": "F002",
+      "facilityName": "Olympic Swimming Pool",
+      "date": "2026-05-11",
+      "startTime": "07:00:00",
+      "endTime": "08:00:00",
+      "status": "Pending"
+    },
+    {
+      "bookingID": "B003",
+      "memberID": "M003",
+      "memberName": "Clara Nguyen",
+      "facilityID": "F003",
+      "facilityName": "Basketball Court A",
+      "date": "2026-05-12",
+      "startTime": "10:00:00",
+      "endTime": "12:00:00",
+      "status": "Confirmed"
+    },
+    {
+      "bookingID": "B004",
+      "memberID": "M004",
+      "memberName": "David Leroy",
+      "facilityID": "F004",
+      "facilityName": "Tennis Court 1",
+      "date": "2026-05-13",
+      "startTime": "15:00:00",
+      "endTime": "16:00:00",
+      "status": "Cancelled"
+    },
+    {
+      "bookingID": "B005",
+      "memberID": "M005",
+      "memberName": "Emma Bernard",
+      "facilityID": "F005",
+      "facilityName": "Yoga Studio",
+      "date": "2026-05-14",
+      "startTime": "06:30:00",
+      "endTime": "07:30:00",
+      "status": "Confirmed"
+    }
+  ]
+}

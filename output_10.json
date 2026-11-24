@@ -1,0 +1,51 @@
+{
+  "totalItems": 5,
+  "totalQuantity": 95,
+  "equipment": [
+    {
+      "equipmentID": "E001",
+      "name": "Football",
+      "category": "Ball Sports",
+      "quantity": 20,
+      "condition": "Good",
+      "facilityID": "F001",
+      "facilityName": "Main Football Pitch"
+    },
+    {
+      "equipmentID": "E002",
+      "name": "Swimming Goggles",
+      "category": "Water Sports",
+      "quantity": 30,
+      "condition": "Excellent",
+      "facilityID": "F002",
+      "facilityName": "Olympic Swimming Pool"
+    },
+    {
+      "equipmentID": "E003",
+      "name": "Basketball",
+      "category": "Ball Sports",
+      "quantity": 15,
+      "condition": "Good",
+      "facilityID": "F003",
+      "facilityName": "Basketball Court A"
+    },
+    {
+      "equipmentID": "E004",
+      "name": "Tennis Racket",
+      "category": "Racket Sports",
+      "quantity": 10,
+      "condition": "Fair",
+      "facilityID": "F004",
+      "facilityName": "Tennis Court 1"
+    },
+    {
+      "equipmentID": "E005",
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "quantity": 20,
+      "condition": "Excellent",
+      "facilityID": "F005",
+      "facilityName": "Yoga Studio"
+    }
+  ]
+}

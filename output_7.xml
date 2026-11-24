@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ContactList totalContacts="5" exportedFor="SportsClub A25">
+  <Contact id="M001">
+    <Name>Alice Martin</Name>
+    <Email>alice.martin@email.com</Email>
+    <Phone>+33 6 12 34 56 78</Phone>
+    <Address>12 Rue de Paris, Lyon</Address>
+    <JoinDate>2023-01-15</JoinDate>
+  </Contact>
+  <Contact id="M002">
+    <Name>Bruno Dupont</Name>
+    <Email>bruno.dupont@email.com</Email>
+    <Phone>+33 6 98 76 54 32</Phone>
+    <Address>5 Avenue Foch, Paris</Address>
+    <JoinDate>2022-06-10</JoinDate>
+  </Contact>
+  <Contact id="M003">
+    <Name>Clara Nguyen</Name>
+    <Email>clara.nguyen@email.com</Email>
+    <Phone>+33 7 11 22 33 44</Phone>
+    <Address>8 Rue Molière, Bordeaux</Address>
+    <JoinDate>2024-03-01</JoinDate>
+  </Contact>
+  <Contact id="M004">
+    <Name>David Leroy</Name>
+    <Email>david.leroy@email.com</Email>
+    <Phone>+33 6 55 44 33 22</Phone>
+    <Address>20 Rue Victor Hugo, Marseille</Address>
+    <JoinDate>2021-09-20</JoinDate>
+  </Contact>
+  <Contact id="M005">
+    <Name>Emma Bernard</Name>
+    <Email>emma.bernard@email.com</Email>
+    <Phone>+33 7 99 88 77 66</Phone>
+    <Address>3 Boulevard Gambetta, Toulouse</Address>
+    <JoinDate>2023-11-05</JoinDate>
+  </Contact>
+</ContactList>
