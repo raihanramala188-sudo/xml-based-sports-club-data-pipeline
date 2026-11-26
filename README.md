@@ -63,7 +63,7 @@ Run the command from the directory containing `main.py` and the source XML, XSD 
 
 ## My Contribution
 
-**Role: Member 3 – [Your Member 3 Role Title, e.g., JSON & Schema Developer]**
+**Role: Member 3 – [JSON & Schema Developer]
 
 My contributions to this team project included:
 - Designing and maintaining JSON schemas (such as `bookings.schema.json`) for structured data validation.
