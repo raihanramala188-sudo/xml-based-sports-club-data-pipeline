@@ -63,13 +63,14 @@ Run the command from the directory containing `main.py` and the source XML, XSD 
 
 ## My Contribution
 
-**Role: Member 2 – HTML Visualisation Developer**
+**Role: Member 3 – [Your Member 3 Role Title, e.g., JSON & Schema Developer]**
 
 My contributions to this team project included:
+- Designing and maintaining JSON schemas (such as `bookings.schema.json`) for structured data validation.
+- Generating and formatting JSON output files (such as `output_9.json` and `output_10.json`) from pipeline data.
+- Supporting data transformation, validation, and integration within the XML/JSON pipeline workflow.
 
-- Developing six XSLT stylesheets for HTML visualisation.
-- Creating six HTML output reports.
-- Transforming structured XML data into browser-readable reports.
+This repository contains the combined deliverables of the four-member academic team.
 
 This repository contains the combined deliverables of the four-member academic team.
 
